@@ -1,3 +1,4 @@
 use context dcic2024
 
-"hello CS2000!"
+string-repeat("hello CS2000!" , 5 )
+
